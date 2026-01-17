@@ -21,7 +21,7 @@ Este índice serve como **ponto de partida** para desenvolvedores, colaboradores
 
 | Repositório | Descrição |
 |-------------|----------|
-| **[teia-admin](https://github.com/devsdoprojetoteia/teia-admin)** | Painel administrativo e backend do Projeto TEIA, utilizado por tutores e administradores para gestão de usuários, conteúdos e dados. |
+| **[teia-admin](https://github.com/devsdoprojetoteia/teia-admin)** | Site, painel administrativo e backend do Projeto TEIA, utilizado por tutores e administradores para gestão de usuários, conteúdos e dados. |
 | **[app-android](https://github.com/devsdoprojetoteia/app-android)** | Aplicativo Android do Projeto TEIA, voltado aos usuários finais para acesso móvel às funcionalidades da plataforma. |
 | **[chatbot](https://github.com/devsdoprojetoteia/chatbot)** | Chatbot do Projeto TEIA, responsável pela interação automatizada com usuários e condução de fluxos conversacionais. |
 
