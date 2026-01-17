@@ -1,4 +1,4 @@
-# 📚 Índice de Repositórios — Devs do Projeto TEIA
+# Índice de Repositórios — Devs do Projeto TEIA
 
 Este repositório funciona como o **índice central** dos projetos mantidos pela organização **Devs do Projeto TEIA** no GitHub.
 
@@ -6,7 +6,7 @@ Aqui você encontra uma visão geral do ecossistema técnico do Projeto TEIA, co
 
 ---
 
-## 🌱 Sobre o Projeto TEIA
+## Sobre o Projeto TEIA
 
 O **Projeto TEIA** é uma iniciativa que integra tecnologia, impacto socioambiental e inovação colaborativa.  
 Seu ecossistema digital é composto por aplicações web, mobile, serviços backend e ferramentas de automação e interação, desenvolvidas de forma aberta e colaborativa.
@@ -15,9 +15,9 @@ Este índice serve como **ponto de partida** para desenvolvedores, colaboradores
 
 ---
 
-## 🗂️ Repositórios da Organização
+## Repositórios da Organização
 
-### 🔹 Repositórios Principais
+### Repositórios Principais
 
 | Repositório | Descrição |
 |-------------|----------|
@@ -28,7 +28,7 @@ Este índice serve como **ponto de partida** para desenvolvedores, colaboradores
 
 ---
 
-### 🔹 Pesquisa, Provas de Conceito e Experimentação
+### Pesquisa, Provas de Conceito e Experimentação
 
 | Repositório | Descrição |
 |-------------|----------|
@@ -36,7 +36,7 @@ Este índice serve como **ponto de partida** para desenvolvedores, colaboradores
 
 ---
 
-### 🔹 Documentação e Organização
+### Documentação e Organização
 
 | Repositório | Descrição |
 |-------------|----------|
@@ -44,7 +44,7 @@ Este índice serve como **ponto de partida** para desenvolvedores, colaboradores
 
 ---
 
-## 🧭 Como navegar pelo ecossistema
+## Como navegar pelo ecossistema
 
 - Comece por este repositório para entender a estrutura geral do projeto
 - Cada repositório possui seu próprio `README.md` com instruções específicas
@@ -52,7 +52,7 @@ Este índice serve como **ponto de partida** para desenvolvedores, colaboradores
 
 ---
 
-## 🤝 Como contribuir
+## Como contribuir
 
 Contribuições são bem-vindas! Você pode ajudar de várias formas:
 
@@ -67,13 +67,13 @@ Contribuições são bem-vindas! Você pode ajudar de várias formas:
 
 ---
 
-## 📄 Licença
+## Licença
 
 Cada repositório possui sua própria licença, descrita individualmente em seu respectivo `README.md`, salvo indicação em contrário.
 
 ---
 
-## 🌐 Organização
+## Organização
 
 GitHub: https://github.com/devsdoprojetoteia
 
